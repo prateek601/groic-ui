@@ -1,5 +1,5 @@
 # groic-ui
-
+I am currently working on Groic app
 This repository contains screenshots of Groic app ui
 
 Description about Groic - 
